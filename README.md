@@ -14,6 +14,9 @@
 `5.`  Upload the Sketch contained in `websocketserver` folder
 
 `6.`  Connect the TX of the ESP8266 to RX of grbl arduino board, and RX of the ESP8266 to TX. Power up the ESP and engraver
+Remember that ESP modules use 3.3v and arduino use 5V. Somewere is suggested to connect via a voltage divider like this:
+
+![image](https://user-images.githubusercontent.com/8782035/34069690-2c4fa06c-e256-11e7-8337-da9dc664742a.png)
 
 `7.`  Connect to the ESP8266 WiFi network and go to "http:\\192.168.4.1". Configure connection to your AP, set password, then switch back to your local wifi (Animation below shows the details)
 
