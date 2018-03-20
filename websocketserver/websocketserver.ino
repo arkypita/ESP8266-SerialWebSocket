@@ -1,3 +1,5 @@
+// Credits: Based on LaserWeb codebase, https://github.com/LaserWeb/LaserWeb3-ESP8266
+
 #include <Arduino.h>
 #include <ESP8266WiFi.h>
 #include <WebSocketsServer.h>    //https://github.com/Links2004/arduinoWebSockets/issues/61
