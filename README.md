@@ -1,3 +1,5 @@
+Credits: Based on LaserWeb codebase, https://github.com/LaserWeb/LaserWeb3-ESP8266
+
 
 `1.`  Download and install Arduino IDE 1.6.x from https://www.arduino.cc/en/Main/Software
 
